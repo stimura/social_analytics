@@ -1,0 +1,111 @@
+,Name,Tweets,Dates,Compound Score,Positive Score,Negative Score,Neutral Score,Tweet Count
+0,CNN,"Facebook CEO Mark Zuckerberg is on Capitol Hill to meet with lawmakers, including members of committees holding hea… https://t.co/vTmwxfTEHS",Mon Apr 09 15:51:28 +0000 2018,0.0,0.0,0.0,1.0,1
+1,CNN,"Sean Hannity, who mocked Michelle Obama, says it's wrong to mock Melania Trump | via @CNNopinion… https://t.co/AgR2qL6zuv",Mon Apr 09 15:50:06 +0000 2018,-0.802,0.0,0.387,0.613,2
+2,CNN,"Oklahoma teachers continue their walkout for a sixth day today, maintaining their pressure on state legislators for… https://t.co/Jppkmfi74G",Mon Apr 09 15:40:08 +0000 2018,-0.5423,0.0,0.231,0.769,3
+3,CNN,"Rick Scott is the toughest challenger Bill Nelson has faced for Florida Senate, but Nelson's still a slight favorit… https://t.co/EHq9izkgN9",Mon Apr 09 15:30:10 +0000 2018,0.0258,0.064,0.059,0.876,4
+4,CNN,What cities and states are doing about guns since the Parkland shooting https://t.co/vngGcWVQF7 https://t.co/9chaUhwhAl,Mon Apr 09 15:20:12 +0000 2018,0.0,0.0,0.0,1.0,5
+5,CNN,The FDA worried this drug was risky. Now doctors are concerned about the report of more than 700 deaths in the less… https://t.co/esK5Q2wVDM,Mon Apr 09 15:12:03 +0000 2018,-0.4588,0.0,0.16,0.84,6
+6,CNN,People from both Canada and the United States are sharing photos of hockey sticks left on porches as a tribute to p… https://t.co/ubUTEoRBxU,Mon Apr 09 15:07:36 +0000 2018,0.6808,0.219,0.0,0.781,7
+7,CNN,"A disaster was narrowly averted in eastern India on Saturday after a runaway train carrying up to 1,000 passengers… https://t.co/3DeQiqTNRR",Mon Apr 09 15:03:51 +0000 2018,-0.6597,0.0,0.252,0.748,8
+8,CNN,Prince Harry and Meghan Markle are asking people who wish to send them a wedding gift to consider donating to one o… https://t.co/BOh2wHicgI,Mon Apr 09 14:47:09 +0000 2018,0.6808,0.219,0.0,0.781,9
+9,CNN,"When it comes to Syria, President Trump can tweet and launch strikes if he wants, but not much else | Analysis by… https://t.co/q5wp5kGq43",Mon Apr 09 14:31:06 +0000 2018,-0.1901,0.0,0.077,0.923,10
+10,CNN,"RT @cnni: Two of the most wanted fighters from the British ISIS cell called ""the Beatles"" spoke with @npwcnn from inside the detention faci…",Mon Apr 09 14:21:53 +0000 2018,-0.4549,0.0,0.153,0.847,11
+11,CNN,"As images of Syrian children gasping and convulsing spread around the world, President Trump and other internationa… https://t.co/QFqM3UzVxs",Mon Apr 09 14:20:03 +0000 2018,0.0,0.0,0.0,1.0,12
+12,CNN,Life coach Tony Robbins apologized for his comments about the #MeToo movement after suggesting during a March event… https://t.co/U0Ln3fjW8v,Mon Apr 09 14:04:35 +0000 2018,0.3182,0.119,0.0,0.881,13
+13,CNN,From political refugee to CEO: How Geisha Williams made history by becoming the first Latina CEO of a Fortune 500 C… https://t.co/v9AAlj9mmM,Mon Apr 09 13:52:05 +0000 2018,0.0,0.0,0.0,1.0,14
+14,CNN,Defense Secretary James Mattis on the possibility of launching airstrikes against Syrian President Bashar al-Assad'… https://t.co/4Oi2LTEfJ4,Mon Apr 09 13:40:21 +0000 2018,0.128,0.091,0.0,0.909,15
+15,CNN,"""Black Panther"" passes ""Titanic"" at the box office on the all-time list of highest grossing films… https://t.co/Lf9lIVteVA",Mon Apr 09 13:29:17 +0000 2018,-0.0772,0.0,0.075,0.925,16
+16,CNN,Attorney General Jeff Sessions just made the opioid war harder to win | via @CNNopinion https://t.co/eO2ZYGLkm8 https://t.co/5ZmHgOzoz7,Mon Apr 09 13:20:01 +0000 2018,-0.0258,0.175,0.18,0.645,17
+17,CNN,"A disaster was narrowly averted in eastern India after a runaway train carrying up to 1,000 passengers rolled with… https://t.co/lGO0pA0YRX",Mon Apr 09 13:12:03 +0000 2018,-0.6597,0.0,0.252,0.748,18
+18,CNN,"Syria and it most powerful ally, Russia, blamed Israel for striking an airbase in the war-torn country on Monday, f… https://t.co/dU3bFRhJlV",Mon Apr 09 13:05:54 +0000 2018,-0.0018,0.123,0.123,0.754,19
+19,CNN,Stormy Daniels' legal team plans to release a composite sketch of the man the porn star says threatened her in 2011… https://t.co/Rbmaf5sW4J,Mon Apr 09 13:00:15 +0000 2018,-0.3612,0.064,0.128,0.809,20
+20,CNN,"Facebook CEO Mark Zuckerberg is on Capitol Hill to meet with lawmakers, including members of committees holding hea… https://t.co/vTmwxfTEHS",Mon Apr 09 15:51:28 +0000 2018,0.0,0.0,0.0,1.0,21
+21,CNN,"Sean Hannity, who mocked Michelle Obama, says it's wrong to mock Melania Trump | via @CNNopinion… https://t.co/AgR2qL6zuv",Mon Apr 09 15:50:06 +0000 2018,-0.802,0.0,0.387,0.613,22
+22,CNN,"Oklahoma teachers continue their walkout for a sixth day today, maintaining their pressure on state legislators for… https://t.co/Jppkmfi74G",Mon Apr 09 15:40:08 +0000 2018,-0.5423,0.0,0.231,0.769,23
+23,CNN,"Rick Scott is the toughest challenger Bill Nelson has faced for Florida Senate, but Nelson's still a slight favorit… https://t.co/EHq9izkgN9",Mon Apr 09 15:30:10 +0000 2018,0.0258,0.064,0.059,0.876,24
+24,CNN,What cities and states are doing about guns since the Parkland shooting https://t.co/vngGcWVQF7 https://t.co/9chaUhwhAl,Mon Apr 09 15:20:12 +0000 2018,0.0,0.0,0.0,1.0,25
+25,CNN,The FDA worried this drug was risky. Now doctors are concerned about the report of more than 700 deaths in the less… https://t.co/esK5Q2wVDM,Mon Apr 09 15:12:03 +0000 2018,-0.4588,0.0,0.16,0.84,26
+26,CNN,People from both Canada and the United States are sharing photos of hockey sticks left on porches as a tribute to p… https://t.co/ubUTEoRBxU,Mon Apr 09 15:07:36 +0000 2018,0.6808,0.219,0.0,0.781,27
+27,CNN,"A disaster was narrowly averted in eastern India on Saturday after a runaway train carrying up to 1,000 passengers… https://t.co/3DeQiqTNRR",Mon Apr 09 15:03:51 +0000 2018,-0.6597,0.0,0.252,0.748,28
+28,CNN,Prince Harry and Meghan Markle are asking people who wish to send them a wedding gift to consider donating to one o… https://t.co/BOh2wHicgI,Mon Apr 09 14:47:09 +0000 2018,0.6808,0.219,0.0,0.781,29
+29,CNN,"When it comes to Syria, President Trump can tweet and launch strikes if he wants, but not much else | Analysis by… https://t.co/q5wp5kGq43",Mon Apr 09 14:31:06 +0000 2018,-0.1901,0.0,0.077,0.923,30
+30,CNN,"RT @cnni: Two of the most wanted fighters from the British ISIS cell called ""the Beatles"" spoke with @npwcnn from inside the detention faci…",Mon Apr 09 14:21:53 +0000 2018,-0.4549,0.0,0.153,0.847,31
+31,CNN,"As images of Syrian children gasping and convulsing spread around the world, President Trump and other internationa… https://t.co/QFqM3UzVxs",Mon Apr 09 14:20:03 +0000 2018,0.0,0.0,0.0,1.0,32
+32,CNN,Life coach Tony Robbins apologized for his comments about the #MeToo movement after suggesting during a March event… https://t.co/U0Ln3fjW8v,Mon Apr 09 14:04:35 +0000 2018,0.3182,0.119,0.0,0.881,33
+33,CNN,From political refugee to CEO: How Geisha Williams made history by becoming the first Latina CEO of a Fortune 500 C… https://t.co/v9AAlj9mmM,Mon Apr 09 13:52:05 +0000 2018,0.0,0.0,0.0,1.0,34
+34,CNN,Defense Secretary James Mattis on the possibility of launching airstrikes against Syrian President Bashar al-Assad'… https://t.co/4Oi2LTEfJ4,Mon Apr 09 13:40:21 +0000 2018,0.128,0.091,0.0,0.909,35
+35,CNN,"""Black Panther"" passes ""Titanic"" at the box office on the all-time list of highest grossing films… https://t.co/Lf9lIVteVA",Mon Apr 09 13:29:17 +0000 2018,-0.0772,0.0,0.075,0.925,36
+36,CNN,Attorney General Jeff Sessions just made the opioid war harder to win | via @CNNopinion https://t.co/eO2ZYGLkm8 https://t.co/5ZmHgOzoz7,Mon Apr 09 13:20:01 +0000 2018,-0.0258,0.175,0.18,0.645,37
+37,CNN,"A disaster was narrowly averted in eastern India after a runaway train carrying up to 1,000 passengers rolled with… https://t.co/lGO0pA0YRX",Mon Apr 09 13:12:03 +0000 2018,-0.6597,0.0,0.252,0.748,38
+38,CNN,"Syria and it most powerful ally, Russia, blamed Israel for striking an airbase in the war-torn country on Monday, f… https://t.co/dU3bFRhJlV",Mon Apr 09 13:05:54 +0000 2018,-0.0018,0.123,0.123,0.754,39
+39,CNN,Stormy Daniels' legal team plans to release a composite sketch of the man the porn star says threatened her in 2011… https://t.co/Rbmaf5sW4J,Mon Apr 09 13:00:15 +0000 2018,-0.3612,0.064,0.128,0.809,40
+40,CNN,"Florida Republican Gov. Rick Scott says he's running for the US Senate, setting up a serious challenge to the state… https://t.co/9oHrPWsZw6",Mon Apr 09 12:49:37 +0000 2018,0.0,0.063,0.063,0.874,41
+41,CNN,Beyond Tokyo: 8 of Japan's best foodie destinations https://t.co/0vjI9pVzDK via @CNNTravel https://t.co/MPo2WPjbfX,Mon Apr 09 12:45:10 +0000 2018,0.6369,0.296,0.0,0.704,42
+42,CNN,Pope Francis says helping the poor and migrants is as important as opposing abortion https://t.co/XHbOXLchua https://t.co/XXBefmOdcn,Mon Apr 09 12:38:55 +0000 2018,-0.0258,0.199,0.154,0.647,43
+43,CNN,Russia's Defense Ministry has claimed that Israel was behind a series of strikes on an airbase in central Syria on… https://t.co/IrPIXbxHUd,Mon Apr 09 12:37:05 +0000 2018,-0.25,0.068,0.114,0.818,44
+44,CNN,"Donald Trump always strives to command center stage, but the US President is now embroiled in so many escalating gl… https://t.co/2yZT9mnSSF",Mon Apr 09 12:30:11 +0000 2018,0.0,0.0,0.0,1.0,45
+45,CNN,"Deutsche Bank, Germany's biggest lender, is getting rid of its CEO after years of heavy losses.… https://t.co/O1UvpLNxyz",Mon Apr 09 12:26:02 +0000 2018,0.0,0.0,0.0,1.0,46
+46,CNN,4 questions Congress must ask Facebook CEO Mark Zuckerberg https://t.co/5PaplSDYRt https://t.co/TPsfQPpUKu,Mon Apr 09 12:19:04 +0000 2018,0.0,0.0,0.0,1.0,47
+47,CNN,"Two of the most wanted fighters from the British ISIS cell known as ""the Beatles"" have called some of the group's a… https://t.co/ErTHLwtmHe",Mon Apr 09 12:16:02 +0000 2018,-0.1226,0.0,0.063,0.937,48
+48,CNN,"Facebook CEO Mark Zuckerberg is on Capitol Hill today to meet with lawmakers, including members of committees holdi… https://t.co/TEjSDM8O0O",Mon Apr 09 12:12:37 +0000 2018,0.0,0.0,0.0,1.0,49
+49,CNN,"New York Times top editor on journalism's ""biggest crisis"" https://t.co/YZqAM2JZ2X https://t.co/aGlBwRjZrc",Mon Apr 09 12:12:02 +0000 2018,-0.5106,0.121,0.275,0.604,50
+50,CNN,What cities and states are doing about guns since the Parkland shooting https://t.co/x2gNmQqcvg https://t.co/q70mtKVUqn,Mon Apr 09 12:04:23 +0000 2018,0.0,0.0,0.0,1.0,51
+51,CNN,Designing for hedonists: The evolution of nightclub interiors https://t.co/PJKGBCwL2b via @CNNStyle https://t.co/osJPpj5Jlo,Mon Apr 09 12:03:04 +0000 2018,0.0,0.0,0.0,1.0,52
+52,CNN,"A disaster was narrowly averted in eastern India on Saturday after a runaway train carrying up to 1,000 passengers… https://t.co/VGZeMMBqZ9",Mon Apr 09 11:59:06 +0000 2018,-0.6597,0.0,0.252,0.748,53
+53,CNN,"How President Trump might counter ""Animal Assad"" https://t.co/1UCL0ugNRt | via @CNNOpinion https://t.co/6Vxl00eqbc",Mon Apr 09 11:56:02 +0000 2018,0.0,0.0,0.0,1.0,54
+54,CNN,16-year-old breaks Commonwealth Games record to win shooting gold for India https://t.co/ckEnqdDG2p https://t.co/Y7CYQy1zrp,Mon Apr 09 11:51:07 +0000 2018,0.5859,0.241,0.0,0.759,55
+55,CNN,Here's everything you need to know about the US-China trade battle https://t.co/qfAXCtoeph https://t.co/qc6MwmahAG,Mon Apr 09 11:44:06 +0000 2018,-0.3818,0.0,0.178,0.822,56
+56,CNN,"Oklahoma teachers will continue their walkout for a sixth day today, maintaining their pressure on state legislator… https://t.co/FdYFsxlo0U",Mon Apr 09 11:39:27 +0000 2018,-0.5423,0.0,0.231,0.769,57
+57,CNN,"Lightning strike kills 1, injures 4 in Florida https://t.co/iDZeD9keEh https://t.co/MnHKWwyfzB",Mon Apr 09 11:38:04 +0000 2018,-0.6124,0.0,0.417,0.583,58
+58,CNN,Atlanta is the world's busiest airport for another year. Here's the rest of the list: https://t.co/qy5qAnTwjG,Mon Apr 09 11:31:05 +0000 2018,0.0,0.0,0.0,1.0,59
+59,CNN,"As images of Syrian children gasping and convulsing spread around the world, President Trump and other internationa… https://t.co/4UF8wtRLft",Mon Apr 09 11:30:06 +0000 2018,0.0,0.0,0.0,1.0,60
+60,CNN,"RT @NewDay: ""They're really very ordinary,"" says @npwcnn of British ISIS terrorists called ""the Beatles.""
+
+""Unextraordinary people to some…",Mon Apr 09 11:26:30 +0000 2018,-0.6249,0.0,0.186,0.814,61
+61,CNN,"Two of the most wanted fighters from the British ISIS cell called ""the Beatles"" have called some of the group's act… https://t.co/TJ5ez1pFVh",Mon Apr 09 11:26:19 +0000 2018,-0.1226,0.0,0.066,0.934,62
+62,CNN,US military resumes air operations in Djibouti https://t.co/tb7GCGzpIl https://t.co/dMKZRtdHaw,Mon Apr 09 11:26:05 +0000 2018,0.0,0.0,0.0,1.0,63
+63,CNN,Ferrari mechanic suffers a broken leg after being hit by a car during a pit stop at the Bahrain Grand Prix https://t.co/Hz9pxAiJFO,Mon Apr 09 11:20:03 +0000 2018,-0.6597,0.114,0.318,0.568,64
+64,CNN,Life coach Tony Robbins apologized for his comments about the #MeToo movement after suggesting during a March event… https://t.co/iWTVDtKsqB,Mon Apr 09 11:16:03 +0000 2018,0.3182,0.119,0.0,0.881,65
+65,CNN,Advocacy groups claim YouTube illegally collects data from kids https://t.co/cekqlCi0z1 https://t.co/zjlS4plfp6,Mon Apr 09 11:12:06 +0000 2018,0.0,0.0,0.0,1.0,66
+66,CNN,The FDA worried this drug was risky. Now doctors are concerned about the report of more than 700 deaths in the less… https://t.co/7v8OKBAdFh,Mon Apr 09 11:10:34 +0000 2018,-0.4588,0.0,0.16,0.84,67
+67,CNN,Cambridge Analytica whistleblower says data could've come from more than 87 million users and be stored in Russia… https://t.co/Ul43cBSA1l,Mon Apr 09 11:06:04 +0000 2018,0.0,0.0,0.0,1.0,68
+68,CNN,"5 things for Monday:
+
+- Syria
+- Alaska 'bathroom bill'
+- Hungary election
+- Canada bus crash
+- Tony Robbins and… https://t.co/4MGWimP6ee",Mon Apr 09 11:00:09 +0000 2018,-0.4019,0.0,0.153,0.847,69
+69,CNN,Army identifies two soldiers killed in Kentucky helicopter crash https://t.co/Dqje3GDcLG https://t.co/rXwFCMGiXH,Mon Apr 09 10:58:02 +0000 2018,-0.802,0.0,0.444,0.556,70
+70,CNN,Syria attack response looms over John Bolton's first week as national security adviser https://t.co/iqhidMOnZO https://t.co/YKp7r5Vlt0,Mon Apr 09 10:52:06 +0000 2018,-0.3182,0.126,0.246,0.628,71
+71,CNN,"When Congress returns Monday from a two-week recess, all eyes will be on Facebook CEO Mark Zuckerberg as he takes t… https://t.co/rvKkEqwlqD",Mon Apr 09 10:50:07 +0000 2018,0.0,0.0,0.0,1.0,72
+72,CNN,"A year after the US attacked Syria, what's changed? https://t.co/fD4i63D5cc https://t.co/T2skoyLYDv",Mon Apr 09 10:46:04 +0000 2018,-0.4588,0.0,0.25,0.75,73
+73,CNN,Should Democrats worry that a blue wave is being treated like a sure thing? | Analysis by @zbyronwolf … https://t.co/ic7X2vHlwu,Mon Apr 09 10:45:04 +0000 2018,0.2263,0.232,0.14,0.628,74
+74,CNN,"Muenster van attack driver acted alone, police say https://t.co/0ImvR5IoMW https://t.co/BweBbbfH2O",Mon Apr 09 10:41:02 +0000 2018,-0.6249,0.0,0.389,0.611,75
+75,CNN,Bill Cosby's retrial begins in Pennsylvania today -- the first time the comedian's case returns to court since the… https://t.co/mKOcWGBE5R,Mon Apr 09 10:35:35 +0000 2018,0.0,0.0,0.0,1.0,76
+76,CNN,"Republican Sen. John McCain says President Trump ""emboldened"" Syrian leader Bashar al-Assad with comments on US wit… https://t.co/2Dm4Cpqyla",Mon Apr 09 10:35:05 +0000 2018,0.0,0.0,0.0,1.0,77
+77,CNN,"New Trump adviser is ""not much of a carrot man"" https://t.co/5yAePVYewm | via @CNNopinion https://t.co/Cib9B7ZUTl",Mon Apr 09 10:31:07 +0000 2018,0.0,0.0,0.0,1.0,78
+78,CNN,Several cities and states have taken matters into their own hands on gun regulation since the February 14 Parkland… https://t.co/f9mmASATVg,Mon Apr 09 10:26:01 +0000 2018,-0.3182,0.051,0.112,0.837,79
+79,CNN,New details about the birth of the third child of the Duke and Duchess of Cambridge have been revealed by Kensingto… https://t.co/A6r1pHeuqm,Mon Apr 09 10:21:02 +0000 2018,0.0,0.0,0.0,1.0,80
+80,CNN,"Ad boycott continues, but Laura Ingraham is coming back https://t.co/A9aXH4c6Tb https://t.co/KBp3OW1IMd",Mon Apr 09 10:15:07 +0000 2018,-0.1655,0.0,0.142,0.858,81
+81,CNN,"The US denied attacking a Syrian airfield on Sunday, hours after President Donald Trump tweeted ""Animal Assad"" woul… https://t.co/KAoUrZQTf4",Mon Apr 09 10:12:04 +0000 2018,-0.7096,0.0,0.269,0.731,82
+82,CNN,Jimmy Kimmel apologizes for jabs at Fox News host Sean Hannity https://t.co/fZDKYMkN5H https://t.co/WWKAqAwmj3,Mon Apr 09 10:06:04 +0000 2018,0.3612,0.172,0.0,0.828,83
+83,CNN,"Stormy Daniels' attorney has once again filed a motion to depose President Donald Trump and his lawyer, Michael Coh… https://t.co/NjypxY1Pex",Mon Apr 09 09:59:03 +0000 2018,0.0,0.0,0.0,1.0,84
+84,CNN,"Are you one of the 87 million Facebook users affected by the Cambridge Analytica data breach?
+
+CNN wants to hear fr… https://t.co/ceSEBdQnht",Mon Apr 09 09:57:23 +0000 2018,-0.1531,0.0,0.071,0.929,85
+85,CNN,"""A Quiet Place"" leads box office as horror keeps making noise https://t.co/gEzgD5vtI4 https://t.co/Cdq3ZTV6jE",Mon Apr 09 09:52:58 +0000 2018,-0.5719,0.0,0.236,0.764,86
+86,CNN,Russia's Defense Ministry has claimed that Israel was behind a series of strikes on an airbase in central Syria on… https://t.co/n3Xv9yvPZ8,Mon Apr 09 09:43:05 +0000 2018,-0.25,0.068,0.114,0.818,87
+87,CNN,"Oklahoma teachers to continue their walkout for a sixth day, maintaining their pressure on state legislators for in… https://t.co/QClmRnFGPP",Mon Apr 09 09:34:03 +0000 2018,-0.5423,0.0,0.22,0.78,88
+88,CNN,Ferrari mechanic suffers a broken leg after being hit by a car during a pit stop at the Bahrain Grand Prix https://t.co/dolD3bQW65,Mon Apr 09 09:27:21 +0000 2018,-0.6597,0.114,0.318,0.568,89
+89,CNN,New details about the birth of the third child of the Duke and Duchess of Cambridge have been revealed by Kensingto… https://t.co/HIZw9JEsqf,Mon Apr 09 09:14:52 +0000 2018,0.0,0.0,0.0,1.0,90
+90,CNN,"Two of the most wanted fighters from the British ISIS cell known as ""the Beatles"" have called some of the group's a… https://t.co/4ZAF4Buuje",Mon Apr 09 09:09:42 +0000 2018,-0.1226,0.0,0.063,0.937,91
+91,CNN,Several cities and states have taken matters into their own hands on gun regulation since the February 14 Parkland… https://t.co/qkxc9sCfrk,Mon Apr 09 08:58:40 +0000 2018,-0.3182,0.051,0.112,0.837,92
+92,CNN,Atlanta is the world's busiest airport for another year. Here's the rest of the list: https://t.co/kaAwtr1PRg,Mon Apr 09 08:49:22 +0000 2018,0.0,0.0,0.0,1.0,93
+93,CNN,"Ad boycott continues, but Laura Ingraham is coming back https://t.co/OnXNdAF10s https://t.co/Y4NlvfUxSx",Mon Apr 09 08:30:12 +0000 2018,-0.1655,0.0,0.142,0.858,94
+94,CNN,Advocacy groups claim YouTube illegally collects data from kids https://t.co/6EXVuwK63a https://t.co/3cvTdyRhuq,Mon Apr 09 08:20:50 +0000 2018,0.0,0.0,0.0,1.0,95
+95,CNN,"New York Times top editor on journalism's ""biggest crisis"" https://t.co/gCbhz0zlxi https://t.co/10pUTf3wWe",Mon Apr 09 08:14:20 +0000 2018,-0.5106,0.121,0.275,0.604,96
+96,CNN,"How President Trump might counter ""Animal Assad"" https://t.co/goFKFPnLS5 | via @CNNOpinion https://t.co/VrIRXtkC48",Mon Apr 09 08:07:51 +0000 2018,0.0,0.0,0.0,1.0,97
+97,CNN,Facebook is about to tell users if their data was shared with Cambridge Analytica https://t.co/mEPmgsQo81 https://t.co/DxiWnScgLL,Mon Apr 09 08:00:13 +0000 2018,0.34,0.138,0.0,0.862,98
+98,CNN,"A disaster was narrowly averted in eastern India on Saturday after a runaway train carrying up to 1,000 passengers… https://t.co/cddXNNQgTk",Mon Apr 09 07:44:42 +0000 2018,-0.6597,0.0,0.252,0.748,99
+99,CNN,16-year-old breaks Commonwealth Games record to win shooting gold for India https://t.co/wJBSQSwWGh https://t.co/fI8userxuW,Mon Apr 09 07:36:35 +0000 2018,0.5859,0.241,0.0,0.759,100

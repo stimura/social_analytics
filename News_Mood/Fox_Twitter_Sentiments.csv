@@ -1,0 +1,103 @@
+,Name,Tweets,Dates,Compound Score,Positive Score,Negative Score,Neutral Score,Tweet Count
+0,Fox News,.@Richardafowler on escalating trade tension between China and the U.S. https://t.co/cEPZmWKl72,Mon Apr 09 15:48:51 +0000 2018,-0.3182,0.0,0.187,0.813,1
+1,Fox News,Alex Conant: “Everyone loses in a trade war.” https://t.co/pPKIsqKU3f,Mon Apr 09 15:41:12 +0000 2018,-0.3182,0.0,0.247,0.753,2
+2,Fox News,RT @FoxBusiness: Dow at session highs: https://t.co/I7RKNQgnlb https://t.co/6GPmRL0K23,Mon Apr 09 15:30:54 +0000 2018,0.0,0.0,0.0,1.0,3
+3,Fox News,'Shirtless' daredevil draped in American flag climbs 200-foot crane in Hollywood https://t.co/LObFSY5JsF,Mon Apr 09 15:20:42 +0000 2018,0.128,0.12,0.0,0.88,4
+4,Fox News,"Breaking News: Body of Tennessee double-murder suspect believed to be found, sheriff says https://t.co/lEbAZCvlrf",Mon Apr 09 15:06:25 +0000 2018,-0.296,0.0,0.145,0.855,5
+5,Fox News,Toddler on American Airlines flight hit in head with oxygen canister that fell from ceiling during landing https://t.co/BO5ZoXFtDO,Mon Apr 09 14:43:27 +0000 2018,0.0,0.0,0.0,1.0,6
+6,Fox News,"Brandon Judd: “When we have the National Guard on the border, the cartels take notice.” https://t.co/zQ5dC38M6D",Mon Apr 09 14:36:36 +0000 2018,0.0,0.0,0.0,1.0,7
+7,Fox News,"“It’s going to be a huge boon."" – Brandon Judd on @USNationalGuard troops heading to the southern border https://t.co/HpdVpSk2WD",Mon Apr 09 14:34:51 +0000 2018,0.3182,0.126,0.0,0.874,8
+8,Fox News,Texas Gov on Sending Nat'l Guard to Border: 'There's a Mathematical Need For This' https://t.co/zaGRhlMHdb,Mon Apr 09 14:29:26 +0000 2018,0.0,0.0,0.0,1.0,9
+9,Fox News,Horse trailer carrying at least 18 illegal immigrants crashes in Southern California https://t.co/vDBNYCcCfP,Mon Apr 09 14:26:01 +0000 2018,-0.5574,0.0,0.231,0.769,10
+10,Fox News,"Mac Thornberry: ""We’ve got to do whatever it takes to have planes that fly and have training that is appropriate fo… https://t.co/PxyBSYRb7e",Mon Apr 09 14:23:41 +0000 2018,0.0,0.0,0.0,1.0,11
+11,Fox News,"Mac Thornberry: “What we do speaks much more clearly than what we say, and to show Putin and Assad and everybody el… https://t.co/pXOMQvtSfZ",Mon Apr 09 14:20:34 +0000 2018,0.4576,0.12,0.0,0.88,12
+12,Fox News,"Mac Thornberry: “We cannot fix Syria...We have to work with our allies to try to keep a lid on things."" https://t.co/VaXqZgzSTW",Mon Apr 09 14:15:12 +0000 2018,0.0,0.0,0.0,1.0,13
+13,Fox News,Tony Robbins apologizes for #MeToo comments https://t.co/NDTXRdhvmr,Mon Apr 09 14:12:15 +0000 2018,0.3612,0.294,0.0,0.706,14
+14,Fox News,"Mac Thornberry: ""Syria is a cauldron of security concerns for all sorts of countries.” https://t.co/UjnLduMUV4 https://t.co/b3lTjMkMql",Mon Apr 09 14:08:49 +0000 2018,0.34,0.146,0.0,0.854,15
+15,Fox News,"RT @FoxBusiness: .@SecretaryPerry: ""Now, because of American innovation, American technology, we are now in the driver's seat when it comes…",Mon Apr 09 14:05:35 +0000 2018,0.3818,0.12,0.0,0.88,16
+16,Fox News,"RT @FoxBusiness: .@SecretaryPerry: ""Fracking, horizontal drilling completely changed the dynamic out there in the world from the standpoint…",Mon Apr 09 14:05:23 +0000 2018,0.4336,0.144,0.0,0.856,17
+17,Fox News,"Meghan Markle, Prince Harry ask for donations to charities as wedding gifts https://t.co/UPI4eSKubw",Mon Apr 09 14:04:13 +0000 2018,0.4939,0.211,0.0,0.789,18
+18,Fox News,Homeless residents brag about makeshift 'mansion' near Seattle's famed Space Needle https://t.co/O3WadCSrqE,Mon Apr 09 14:01:51 +0000 2018,0.0,0.0,0.0,1.0,19
+19,Fox News,"Facebook must shape up, or it will be 'broken up,' senator warns https://t.co/Q8Rozj7Hrr #fntech (via @christocarbone)",Mon Apr 09 13:12:00 +0000 2018,-0.5423,0.0,0.243,0.757,20
+20,Fox News,.@Richardafowler on escalating trade tension between China and the U.S. https://t.co/cEPZmWKl72,Mon Apr 09 15:48:51 +0000 2018,-0.3182,0.0,0.187,0.813,21
+21,Fox News,Alex Conant: “Everyone loses in a trade war.” https://t.co/pPKIsqKU3f,Mon Apr 09 15:41:12 +0000 2018,-0.3182,0.0,0.247,0.753,22
+22,Fox News,RT @FoxBusiness: Dow at session highs: https://t.co/I7RKNQgnlb https://t.co/6GPmRL0K23,Mon Apr 09 15:30:54 +0000 2018,0.0,0.0,0.0,1.0,23
+23,Fox News,'Shirtless' daredevil draped in American flag climbs 200-foot crane in Hollywood https://t.co/LObFSY5JsF,Mon Apr 09 15:20:42 +0000 2018,0.128,0.12,0.0,0.88,24
+24,Fox News,"Breaking News: Body of Tennessee double-murder suspect believed to be found, sheriff says https://t.co/lEbAZCvlrf",Mon Apr 09 15:06:25 +0000 2018,-0.296,0.0,0.145,0.855,25
+25,Fox News,Toddler on American Airlines flight hit in head with oxygen canister that fell from ceiling during landing https://t.co/BO5ZoXFtDO,Mon Apr 09 14:43:27 +0000 2018,0.0,0.0,0.0,1.0,26
+26,Fox News,"Brandon Judd: “When we have the National Guard on the border, the cartels take notice.” https://t.co/zQ5dC38M6D",Mon Apr 09 14:36:36 +0000 2018,0.0,0.0,0.0,1.0,27
+27,Fox News,"“It’s going to be a huge boon."" – Brandon Judd on @USNationalGuard troops heading to the southern border https://t.co/HpdVpSk2WD",Mon Apr 09 14:34:51 +0000 2018,0.3182,0.126,0.0,0.874,28
+28,Fox News,Texas Gov on Sending Nat'l Guard to Border: 'There's a Mathematical Need For This' https://t.co/zaGRhlMHdb,Mon Apr 09 14:29:26 +0000 2018,0.0,0.0,0.0,1.0,29
+29,Fox News,Horse trailer carrying at least 18 illegal immigrants crashes in Southern California https://t.co/vDBNYCcCfP,Mon Apr 09 14:26:01 +0000 2018,-0.5574,0.0,0.231,0.769,30
+30,Fox News,"Mac Thornberry: ""We’ve got to do whatever it takes to have planes that fly and have training that is appropriate fo… https://t.co/PxyBSYRb7e",Mon Apr 09 14:23:41 +0000 2018,0.0,0.0,0.0,1.0,31
+31,Fox News,"Mac Thornberry: “What we do speaks much more clearly than what we say, and to show Putin and Assad and everybody el… https://t.co/pXOMQvtSfZ",Mon Apr 09 14:20:34 +0000 2018,0.4576,0.12,0.0,0.88,32
+32,Fox News,"Mac Thornberry: “We cannot fix Syria...We have to work with our allies to try to keep a lid on things."" https://t.co/VaXqZgzSTW",Mon Apr 09 14:15:12 +0000 2018,0.0,0.0,0.0,1.0,33
+33,Fox News,Tony Robbins apologizes for #MeToo comments https://t.co/NDTXRdhvmr,Mon Apr 09 14:12:15 +0000 2018,0.3612,0.294,0.0,0.706,34
+34,Fox News,"Mac Thornberry: ""Syria is a cauldron of security concerns for all sorts of countries.” https://t.co/UjnLduMUV4 https://t.co/b3lTjMkMql",Mon Apr 09 14:08:49 +0000 2018,0.34,0.146,0.0,0.854,35
+35,Fox News,"RT @FoxBusiness: .@SecretaryPerry: ""Now, because of American innovation, American technology, we are now in the driver's seat when it comes…",Mon Apr 09 14:05:35 +0000 2018,0.3818,0.12,0.0,0.88,36
+36,Fox News,"RT @FoxBusiness: .@SecretaryPerry: ""Fracking, horizontal drilling completely changed the dynamic out there in the world from the standpoint…",Mon Apr 09 14:05:23 +0000 2018,0.4336,0.144,0.0,0.856,37
+37,Fox News,"Meghan Markle, Prince Harry ask for donations to charities as wedding gifts https://t.co/UPI4eSKubw",Mon Apr 09 14:04:13 +0000 2018,0.4939,0.211,0.0,0.789,38
+38,Fox News,Homeless residents brag about makeshift 'mansion' near Seattle's famed Space Needle https://t.co/O3WadCSrqE,Mon Apr 09 14:01:51 +0000 2018,0.0,0.0,0.0,1.0,39
+39,Fox News,"Facebook must shape up, or it will be 'broken up,' senator warns https://t.co/Q8Rozj7Hrr #fntech (via @christocarbone)",Mon Apr 09 13:12:00 +0000 2018,-0.5423,0.0,0.243,0.757,40
+40,Fox News,Topless woman charges at Bill Cosby as he arrives for sex assault retrial https://t.co/7ekE4V4H7F,Mon Apr 09 13:01:08 +0000 2018,-0.7096,0.0,0.33,0.67,41
+41,Fox News,".@SecretaryPerry: “You’ve got to have boots on the ground, you’ve got to have the technologies, that’s the reason t… https://t.co/nGnZTfWihb",Mon Apr 09 12:59:25 +0000 2018,0.0,0.0,0.0,1.0,42
+42,Fox News,73-year-old survives crash through brick wall and down 10-foot drop https://t.co/JH9HTBtN4u,Mon Apr 09 12:52:15 +0000 2018,-0.5859,0.0,0.348,0.652,43
+43,Fox News,.@ScottWalker: “We protect our shores and our borders and I applaud the president for stepping up to take on illega… https://t.co/p97zi26qGq,Mon Apr 09 12:30:27 +0000 2018,0.6808,0.237,0.0,0.763,44
+44,Fox News,Hackers hit Iran with US flag and 'Don't mess with our elections' warning https://t.co/Wp8Qc5G4Si,Mon Apr 09 12:10:12 +0000 2018,-0.0747,0.128,0.145,0.727,45
+45,Fox News,.@GovAbbott on @foxandfriends: “Texas wants to ensure that we secure the border.” https://t.co/fwGehxeoqM,Mon Apr 09 11:46:36 +0000 2018,0.6124,0.312,0.0,0.688,46
+46,Fox News,".@GovAbbott: ""The people of Texas are very appreciative that the president of the United States has recognized this… https://t.co/kMRze2Y37o",Mon Apr 09 11:45:07 +0000 2018,0.7713,0.282,0.0,0.718,47
+47,Fox News,Ronald Vitello: “Consequences matter…We need to reduce the activity level at the border.” @foxandfriends https://t.co/IfOPglGQfx,Mon Apr 09 11:32:36 +0000 2018,0.0,0.0,0.0,1.0,48
+48,Fox News,Cooler than average temperatures continue for the Midwest and Northeast (via @JaniceDean) https://t.co/ci8Hm7Q6Of,Mon Apr 09 11:26:49 +0000 2018,0.0,0.0,0.0,1.0,49
+49,Fox News,"JUST IN: Florida GOP Gov. Rick Scott running for Senate, report says https://t.co/hQgoeiQpsb",Mon Apr 09 11:25:01 +0000 2018,0.0,0.0,0.0,1.0,50
+50,Fox News,Ronald Vitello on @USNationalGuard at the southern border: “They’re going to help us by adding capacity.”… https://t.co/oiOA1sIqWU,Mon Apr 09 11:23:38 +0000 2018,0.4019,0.144,0.0,0.856,51
+51,Fox News,".@RalphNorman: “I believe that the only thing that stops a bad guy with a gun, is a good guy with a gun.” https://t.co/eboQAn54i6",Mon Apr 09 11:05:02 +0000 2018,-0.5574,0.114,0.295,0.591,52
+52,Fox News,"OPINION: Want jobs? Nebraska reforms have more people working, fewer on welfare and food stamps (via… https://t.co/t9QPR8HRKx",Mon Apr 09 10:58:23 +0000 2018,0.0772,0.075,0.0,0.925,53
+53,Fox News,.@LindseyGrahamSC on the suspected Syria chemical attack: “I think now [Assad] is a legitimate war criminal in the… https://t.co/nunsCfmgbG,Mon Apr 09 10:32:14 +0000 2018,-0.9062,0.0,0.468,0.532,54
+54,Fox News,.@LindseyGrahamSC on the suspected Syria chemical attack: “We should make [Assad] pay a heavy price by destroying h… https://t.co/e9yFdSIgWJ,Mon Apr 09 10:28:47 +0000 2018,-0.8402,0.0,0.417,0.583,55
+55,Fox News,Army identifies 2 killed in helicopter crash in Kentucky https://t.co/O2k3izcQvA https://t.co/wWVEuIaCpL,Mon Apr 09 10:28:05 +0000 2018,-0.802,0.0,0.474,0.526,56
+56,Fox News,Russia blames Israel for deadly airstrike on Assad base after alleged chemical attack https://t.co/ttl3yWlLZf,Mon Apr 09 10:07:05 +0000 2018,-0.7003,0.0,0.326,0.674,57
+57,Fox News,.@RLHeinrichs on the Syria chemical attack: “You can’t allow chemical weapons to continue being used.”… https://t.co/CnW8ZaedJP,Mon Apr 09 09:56:41 +0000 2018,-0.6249,0.091,0.287,0.622,58
+58,Fox News,Sen. Jeff Flake's son seeks new civil trial against Joe Arpaio https://t.co/rqc9nLB9Tm https://t.co/RhieDXVfYz,Mon Apr 09 09:41:32 +0000 2018,0.0,0.0,0.0,1.0,59
+59,Fox News,Texas Begins Deploying Troops to the Border https://t.co/9gYLu12hvH https://t.co/VsUSbZhUtE,Mon Apr 09 09:35:10 +0000 2018,0.0,0.0,0.0,1.0,60
+60,Fox News,South Carolina reps introduce bill to allow debate on secession over gun laws https://t.co/xa9m1r0ptu,Mon Apr 09 09:16:10 +0000 2018,-0.128,0.117,0.147,0.736,61
+61,Fox News,"Democratic strategist Chuck Rocha: ""Nobody in America wants anybody coming here who wants to do harm to America."" https://t.co/MYBFQmnRBu",Mon Apr 09 09:01:54 +0000 2018,-0.5423,0.0,0.163,0.837,62
+62,Fox News,.@larry_kudlow tries to calm trade war fears but says #Trump 'not bluffing' about China tariffs https://t.co/dUUt2Xc9G6,Mon Apr 09 09:00:00 +0000 2018,-0.4019,0.087,0.229,0.684,63
+63,Fox News,New high-speed Florida train kills 4th person since launching service https://t.co/bQAcrPIa3x,Mon Apr 09 08:55:00 +0000 2018,-0.5423,0.0,0.259,0.741,64
+64,Fox News,Russia blames Israel for deadly airstrike on Assad base after alleged chemical attack https://t.co/ttl3yWDmQN,Mon Apr 09 08:50:00 +0000 2018,-0.7003,0.0,0.326,0.674,65
+65,Fox News,".@RepMcCaul: ""I remember @JohnKerry saying, 'We took all their chemical weapons away.' Obviously not."" https://t.co/x7G1yQlN19",Mon Apr 09 08:42:00 +0000 2018,-0.4404,0.0,0.172,0.828,66
+66,Fox News,".@NanHayworth: ""Extreme vetting, which has been applied to targeted nations that we know are the sources of terror… https://t.co/OV0e9TAMSN",Mon Apr 09 08:40:19 +0000 2018,0.0,0.0,0.0,1.0,67
+67,Fox News,Child advocates ask FTC to investigate YouTube https://t.co/vZEB4ezBGD,Mon Apr 09 08:37:00 +0000 2018,0.0,0.0,0.0,1.0,68
+68,Fox News,Texas begins deploying troops to southern border https://t.co/iKj4LWihu4,Mon Apr 09 08:32:40 +0000 2018,0.0,0.0,0.0,1.0,69
+69,Fox News,"On @foxandfriends, @cvpayne praised President @realDonaldTrump's economic policies and their positive results for A… https://t.co/Cos9MFoHLP",Mon Apr 09 08:32:00 +0000 2018,0.7783,0.343,0.0,0.657,70
+70,Fox News,"Delta passenger suffered 'painful' cartilage damage after child on flight repeatedly kicked her, she claims https://t.co/bcvwOCIhxd",Mon Apr 09 08:30:09 +0000 2018,-0.7506,0.0,0.314,0.686,71
+71,Fox News,"National security analyst Ryan Mauro on Syrian chemical attack: ""I see no other option besides military action.""… https://t.co/mbBmTmeoQH",Mon Apr 09 08:22:21 +0000 2018,-0.4404,0.106,0.233,0.661,72
+72,Fox News,States sending troops to Mexico border. https://t.co/Zep3xNOoPF,Mon Apr 09 08:21:00 +0000 2018,0.0,0.0,0.0,1.0,73
+73,Fox News,".@TheRealJohnHCox: ""This criminal idea of the sanctuary state movement - the people are upset about this because it… https://t.co/EGULsWk376",Mon Apr 09 08:18:00 +0000 2018,-0.7184,0.0,0.273,0.727,74
+74,Fox News,Hackers hit Iran with US flag and 'Don't mess with our elections' warning https://t.co/Wp8Qc5XGgS,Mon Apr 09 08:16:41 +0000 2018,-0.0747,0.128,0.145,0.727,75
+75,Fox News,Army identifies 2 killed in helicopter crash in Kentucky https://t.co/O2k3izcQvA https://t.co/Zy0NMuT2el,Mon Apr 09 08:09:05 +0000 2018,-0.802,0.0,0.474,0.526,76
+76,Fox News,The lava lake at the summit of Hawaii’s Kilauea Volcano bubbled and spat on the morning of April 4. The USGS Hawaii… https://t.co/edPWaWO7Fp,Mon Apr 09 08:06:02 +0000 2018,0.0,0.0,0.0,1.0,77
+77,Fox News,".@SarahPalinUSA: ""This is unprecedented— all those elements of a perfect storm against the will of the people havin… https://t.co/50FsSD8zBl",Mon Apr 09 08:00:01 +0000 2018,0.5719,0.179,0.0,0.821,78
+78,Fox News,"Arizona mom arrested after toddler ate THC-laced mac and cheese, cops say https://t.co/jQii3c6P4C https://t.co/K5C9IRUSRU",Mon Apr 09 07:55:00 +0000 2018,-0.4767,0.0,0.193,0.807,79
+79,Fox News,"DOG OF ALL TRADES: Besides being a detection dog, Belle doubles as a fetch expert, showcasing advanced skill by sna… https://t.co/WEJxOK3WHA",Mon Apr 09 07:50:00 +0000 2018,0.25,0.1,0.0,0.9,80
+80,Fox News,".@larry_kudlow: ""Look, [@POTUS is] great negotiator. He has a whole history of that. But in this process, tariffs h… https://t.co/ddr3vFEmn4",Mon Apr 09 07:49:00 +0000 2018,0.6249,0.186,0.0,0.814,81
+81,Fox News,Kyle Busch gets first win at Texas NASCAR race https://t.co/PKCjX7kuUT,Mon Apr 09 07:45:00 +0000 2018,0.5859,0.297,0.0,0.703,82
+82,Fox News,".@TomFitton: ""@TheJusticeDept was a mess under Loretta Lynch. This meeting was an indication or an example of the w… https://t.co/sM0FKs7CP4",Mon Apr 09 07:40:00 +0000 2018,-0.3612,0.0,0.122,0.878,83
+83,Fox News,Syrian media report missile attack; US says it didn't fire https://t.co/kYjEZvRJjl,Mon Apr 09 07:35:00 +0000 2018,-0.2649,0.144,0.219,0.637,84
+84,Fox News,".@SarahPalinUSA on ObamaCare: ""It's an atrocity."" https://t.co/gb39DWQdUU",Mon Apr 09 07:30:00 +0000 2018,0.0,0.0,0.0,1.0,85
+85,Fox News,.@elonmusk posts picture of BFR's 'main body tool' to be used for interplanetary missions https://t.co/prcYknD0jT,Mon Apr 09 07:25:00 +0000 2018,0.0,0.0,0.0,1.0,86
+86,Fox News,".@cvpayne: ""This last month we saw the second-lowest unemployment rate for black Americans in history."" https://t.co/MAmmH6WoBb",Mon Apr 09 07:20:00 +0000 2018,-0.4404,0.0,0.162,0.838,87
+87,Fox News,.@POTUS and the economy. https://t.co/844HTnymWT,Mon Apr 09 07:15:00 +0000 2018,0.0,0.0,0.0,1.0,88
+88,Fox News,".@SarahPalinUSA on running for governor: ""We had a lot of corruption going on in our state, and people wanted it cl… https://t.co/xmE8GHaXmL",Mon Apr 09 07:11:00 +0000 2018,0.0,0.0,0.0,1.0,89
+89,Fox News,.@DevinNunes on the chemical attack in Syria: “I haven’t been briefed on this yet… but obviously it’s very troublin… https://t.co/s2M4bT3z2Z,Mon Apr 09 07:07:00 +0000 2018,-0.2617,0.0,0.097,0.903,90
+90,Fox News,The Latest: Syrian monitors say 14 killed in air base strike https://t.co/VwGz1EbzDx,Mon Apr 09 07:06:41 +0000 2018,-0.7184,0.0,0.375,0.625,91
+91,Fox News,"U.S. demanding Russia end Syrian support after poison gas attack kills dozens, activists and medics say… https://t.co/cNAcRL4uo4",Mon Apr 09 07:02:00 +0000 2018,-0.8519,0.101,0.449,0.449,92
+92,Fox News,".@SarahPalinUSA on her vice presidential run: ""I would do it again in a heartbeat."" https://t.co/9dhXbbodpd",Mon Apr 09 06:57:00 +0000 2018,0.0,0.0,0.0,1.0,93
+93,Fox News,"""We're not used to...leaders that stand up and be tough.""
+
+On @foxandfriends, @Nigel_Farage compared President… https://t.co/7Ayny95bHm",Mon Apr 09 06:53:00 +0000 2018,0.0,0.0,0.0,1.0,94
+94,Fox News,".@larry_kudlow on tariffs: ""China's response was highly unsatisfactory and I think that's unfortunate. We do have c… https://t.co/HqPG4Hb77g",Mon Apr 09 06:49:00 +0000 2018,-0.4588,0.0,0.158,0.842,95
+95,Fox News,"Earlier, @MayorofLondon Sadiq Khan vowed to get tough on knife violence as the number of stabbing murders rapidly r… https://t.co/3SizlzosOO",Mon Apr 09 06:45:00 +0000 2018,-0.8519,0.048,0.357,0.595,96
+96,Fox News,.@AlanDersh: President @realDonaldTrump Won't Repeat Fmr. President @BarackObama's 'Tragic Mistake' With Syria 'Red… https://t.co/UH37YfRTZ8,Mon Apr 09 06:42:00 +0000 2018,-0.6597,0.0,0.31,0.69,97
+97,Fox News,Former South Korean President Lee Myung-bak charged with corruption https://t.co/JEX6EjfgbQ,Mon Apr 09 06:40:17 +0000 2018,-0.2023,0.0,0.167,0.833,98
+98,Fox News,".@SarahPalinUSA: ""We have every...God-given right that's codified in our Bill of Rights to protect ourselves."" https://t.co/XQEbG1H3CZ",Mon Apr 09 06:37:00 +0000 2018,0.3818,0.148,0.0,0.852,99
+99,Fox News,".@FrankLuntz: ""I think the Republicans are in deep trouble in the House and the Senate as well. If the election wer… https://t.co/tcTnklGZyO",Mon Apr 09 06:32:00 +0000 2018,-0.1531,0.085,0.109,0.806,100
